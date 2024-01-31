@@ -3,9 +3,10 @@
 
 
 Oracle 11g SQL Inventory Management System
+
 This repository hosts an Inventory Management System developed using Oracle 11g SQL, providing a comprehensive solution for tracking products, managing inventory, and analyzing sales data.
 
-# Key Features**
+# Key Features
 **Employee Management:** Efficiently manage employee information, including personal details, roles, and access privileges.
 **Product Sales:** Track product sales transactions, including details such as date, product ID, quantity, and total sales amount.
 **Inventory Tracking:** Monitor product availability and stock levels in real-time, ensuring accurate inventory management.
